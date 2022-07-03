@@ -9,7 +9,6 @@
 
 - I'm currently researching **secure MetaVerse deployment web apps**
 
-- I'm also working on [Sligo](https://github.com/mac-lawson/sligo)
 
 - Contact Me: **macattackairman@gmail.com**
 

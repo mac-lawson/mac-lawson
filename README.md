@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mac-lawson" alt="mac-lawson" /></a> </p>
 
-- I'm currently working on [MetaFleet](https://github.com/mac-lawson/MetaFleet)
+- I'm currently working on multiple new security research repositories
 
 - I'm currently researching **secure MetaVerse deployment web apps**
 

@@ -8,8 +8,8 @@
 - I'm currently working on multiple new security research repositories
 
 - I'm currently researching **Active Directory**
-Check out my latest project! 
-<a href="https://github.com/mac-lawson/CredentialCompartmentalizing">Test</a>
+Check out my latest project  
+<a href="https://github.com/mac-lawson/CredentialCompartmentalizing">here</a>
 
 
 - Contact Me: **macattackairman@gmail.com**

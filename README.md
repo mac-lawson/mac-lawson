@@ -7,9 +7,9 @@
 
 - I'm currently working on multiple new security research repositories
 
-- I'm currently researching **Active Directory**
+- I'm currently researching **secure messaging solutions**
 Check out my latest project  
-<a href="https://github.com/mac-lawson/CredentialCompartmentalizing">here</a>
+<a href="https://github.com/mac-lawson/sligo">here</a>
 
 
 - Contact Me: **mlawson07@tutanota.com**

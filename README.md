@@ -7,9 +7,9 @@
 
 - I'm currently working on multiple new security research repositories
 
-- I'm currently researching **secure messaging solutions**
+- I'm currently researching **programming language design**
 Check out my latest project  
-<a href="https://github.com/mac-lawson/sligo">here</a>
+<a href="https://github.com/mac-lawson/m">here</a>
 
 
 - Contact Me: **mlawson07@tutanota.com**

@@ -5,10 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mac-lawson" alt="mac-lawson" /></a> </p>
 
-- I'm currently working on multiple new security research repositories
-
-- I'm currently researching **programming language design**
-Check out my latest project  
+I work on security research projects. Most of my projects are going to be put on my website located <a href="https://vercel.com/mac-lawson/macblog">here</a>
 <a href="https://github.com/mac-lawson/m">here</a>
 
 

@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mac-lawson" alt="mac-lawson" /></a> </p>
 
 I work on security research projects. Most of my projects are going to be put on my website located <a href="https://maclawson.vercel.app/">here</a>
+
+Currently, I am doing a lot of work with open-source projects that help with robotics and ML platforms. 
 <!-- <a href="https://github.com/mac-lawson/m">here</a>
  -->
 

@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mac-lawson&label=Profile%20views&color=0e75b6&style=flat" alt="mac-lawson" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mac-lawson" alt="mac-lawson" /></a> </p>
+<div style="text-align:center">
+  <img src="pixil-frame-0.png" alt="image description">
+</div>
+
 
 I work on security research projects. Most of my projects are going to be put on my website located <a href="https://maclawson.vercel.app/">here</a>
 

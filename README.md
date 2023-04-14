@@ -10,7 +10,7 @@
 
 I work on security research projects. Most of my projects are going to be put on my website located <a href="https://maclawson.vercel.app/">here</a>
 
-Currently, I am doing a lot of work with open-source projects that help with robotics and ML platforms. 
+Currently, I am doing a lot of work with secure [web development enviorments](https://github.com/mac-lawson/CodeHS-Vuln). 
 <!-- <a href="https://github.com/mac-lawson/m">here</a>
  -->
 

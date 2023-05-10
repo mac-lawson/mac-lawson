@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mac-lawson&label=Profile%20views&color=0e75b6&style=flat" alt="mac-lawson" /> </p>
 
-<div style="text-align:center">
+<!-- <div style="text-align:center">
   <img src="pixil-frame-0.png" alt="image description">
-</div>
+</div> -->
 
 
 I work on security research projects. Most of my projects are going to be put on my website located <a href="https://maclawson.vercel.app/">here</a>

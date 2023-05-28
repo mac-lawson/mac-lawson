@@ -26,6 +26,6 @@ Currently, I am doing a lot of work with [the Rust programming language](https:/
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mac-lawson&show_icons=true&locale=en&layout=compact" alt="mac-lawson" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mac-lawson&show_icons=true&locale=en" alt="mac-lawson" /></p>
+
 
 

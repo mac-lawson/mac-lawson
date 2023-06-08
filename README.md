@@ -8,7 +8,7 @@
 </div> -->
 
 
-I work on security research projects. Most of my projects are going to be put on my website located <a href="https://maclawson.vercel.app/">here</a>
+I work on security research projects. Most of my projects are going to be put on my website located <a href="https://mac-lawson.github.io/about/">here</a>
 
 Currently, I am doing a lot of work with [the Rust programming language](https://github.com/mac-lawson/web). 
 <!-- <a href="https://github.com/mac-lawson/m">here</a>

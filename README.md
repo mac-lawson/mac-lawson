@@ -10,11 +10,9 @@ I'm currently working on a Golang machine learning project. <br>I enjoy computin
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mac-lawson&theme=gruvbox&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂 Random Dev Meme
-![](https://i.redd.it/7zw7llwo6zfb1.jpg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mac-lawson&icon=2&color=0)](https://visitcount.itsvg.in)

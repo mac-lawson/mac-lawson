@@ -1,17 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Mac Lawson's Profile</title>
 </head>
 <body>
   <h1>Mac Lawson</h1>
   <p>
-    🚀 Student & Developer <br>
-    📍 Aiken, SC 29801 <br>
-    ✉️ mlawson07@protonmail.com <br>
-    ☎️ +1 (540) 935-6367 <br>
-    🌐 [GitHub](https://github.com/mac-lawson) | [LinkedIn](https://www.linkedin.com/in/maclawson) | [Website](https://maclawson.org)
-  </p>
+    Student & Developer <br>
+    mlawson07@protonmail.com <br>
+ </p>
 
   <h2>Professional Experience</h2>
   <ul>

@@ -14,6 +14,15 @@
     <li>Bug Crowd / Independent - Security Researcher and Developer (2021-Present)</li>
     <li>Civil Air Patrol, U.S Air Force Auxiliary - Cadet Commander (2020-Present)</li>
   </ul>
+    <h2>Langs</h2>
+  <ul>
+    <li>Go</li>
+    <li>Rust</li>
+    <li>Python</li>
+    <li>Java</li>
+    <li>C</li>
+    <li>Elixir</li>
+  </ul>
 
   <h2>Skills</h2>
   <ul>
@@ -27,7 +36,6 @@
     <li>Malware Analysis and Detection</li>
     <li>Machine Learning</li>
     <li>Internet Privacy and Traffic Obfuscation</li>
-    <li>Python, Java, LAMP stacks</li>
   </ul>
 
   <h2>Education and Certifications</h2>

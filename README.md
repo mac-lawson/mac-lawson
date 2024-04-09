@@ -23,7 +23,7 @@
     <li>C</li>
     <li>Elixir</li>
   </ul>
-
+[Screenshot 2024-04-09 at 12 48 52 PM](https://github.com/mac-lawson/mac-lawson/assets/68957736/ac005e67-7b81-44f0-a646-73bb3ecc004f)
   <h2>Skills</h2>
   <ul>
     <li>Information Security</li>
@@ -36,7 +36,8 @@
     <li>Malware Analysis and Detection</li>
     <li>Machine Learning</li>
     <li>Internet Privacy and Traffic Obfuscation</li>
-  </ul>
+  </ul>!
+
 
   <h2>Education and Certifications</h2>
   <ul>

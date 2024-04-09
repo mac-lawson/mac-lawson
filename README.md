@@ -23,7 +23,7 @@
     <li>C</li>
     <li>Elixir</li>
   </ul>
-![Screenshot 2024-04-09 at 12 48 52 PM](https://github.com/mac-lawson/mac-lawson/assets/68957736/ac005e67-7b81-44f0-a646-73bb3ecc004f)
+![Screenshot 2024-04-09 at 12 48 52 PM]([https://github.com/mac-lawson/mac-lawson/assets/68957736/ac005e67-7b81-44f0-a646-73bb3ecc004f](https://github-production-user-asset-6210df.s3.amazonaws.com/68957736/320933745-ac005e67-7b81-44f0-a646-73bb3ecc004f.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240409%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240409T164949Z&X-Amz-Expires=300&X-Amz-Signature=f911e9ba1380ea35aad338a75f2f0a52c8ed1090a6525e6ae27e4d830c77927b&X-Amz-SignedHeaders=host&actor_id=68957736&key_id=0&repo_id=509229668))
   <h2>Skills</h2>
   <ul>
     <li>Information Security</li>

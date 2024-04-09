@@ -10,7 +10,7 @@
  </p>
 
 
-    <h2>Langs</h2>
+  <h2>Langs</h2>
   <ul>
     <li>Go</li>
     <li>Rust</li>
